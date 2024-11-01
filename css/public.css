@@ -1,0 +1,52 @@
+/* Freerolls */
+.pokertournaments{
+  width:100%;                 
+}
+.pokertournaments tr td{
+  border:solid 1px #e8e5e0;
+  padding:5px;     
+  color:#73625b                  
+}
+.pokertournaments tr.table-top td{
+  font-weight:bold;
+  color:#25201d;
+}
+.pokertournaments tr td.table-top-type,.pokertournaments tr td.table-line-type{
+  width:115px;
+}
+.pokertournaments tr td.table-top-site,.pokertournaments tr td.table-line-site{
+  width:80px;
+}
+.pokertournaments tr td.table-line-site a{
+  color:#5ab2da;
+}
+
+/* Tournaments */
+.premium-pokertournaments{
+  width:100%;                 
+}
+.premium-pokertournaments tr td{
+  border:solid 1px #e8e5e0;
+  padding:5px;     
+  color:#73625b                  
+}
+.premium-pokertournaments tr.table-top td{
+  font-weight:bold;
+  color:#25201d;
+}
+.premium-pokertournaments tr td.table-top-type,.pokertournaments tr td.table-line-type{
+  width:115px;
+}
+.premium-pokertournaments tr td.table-top-site,.pokertournaments tr td.table-line-site{
+  width:80px;
+}
+.premium-pokertournaments tr td.table-line-site a{
+  color:#5ab2da;
+}
+
+.pt-notice{float:left;
+  width:100%;
+  text-align:right;
+  font-size:80%;
+  font-style:italic;       
+}

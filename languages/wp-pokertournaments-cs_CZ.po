@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-03 13:17+0100\n"
+"PO-Revision-Date: 2013-12-03 13:27+0100\n"
+"Last-Translator: Pokertip <keyholding.randolf@gmail.com>\n"
+"Language-Team: Simple <info@themes4all.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../class-wp-pokertournaments-admin.php:143
+msgid "WP Pokertournaments setting"
+msgstr "WP Pokertournaments nastavení"
+
+#: ../class-wp-pokertournaments-admin.php:144
+msgid "WP Pokertournaments"
+msgstr ""
+
+#: ../class-wp-pokertournaments-admin.php:170
+msgid "Settings"
+msgstr "Nastavení"
+
+#: ../views/admin.php:88
+msgid "Poker rooms setting"
+msgstr "Nastavení poker herny"
+
+#: ../views/admin.php:93
+msgid "Poker room"
+msgstr "Poker herna"
+
+#: ../views/admin.php:94
+msgid "Affiliate link"
+msgstr "Affiliate odkaz"
+
+#: ../views/admin.php:95
+msgid "Active"
+msgstr "Stahovat"
+
+#: ../views/admin.php:96
+msgid "Affiliate program"
+msgstr "Affiliate program"
+
+#: ../views/admin.php:97
+msgid "Timezone setting"
+msgstr "Nastavení časové zóny"
+
+#: ../views/admin.php:118 ../views/admin.php:124
+msgid "Set your affiliate link"
+msgstr "Sem vložte váš affiliate odkaz"
+
+#: ../views/admin.php:135
+msgid " Format: +1 or -1 hour"
+msgstr "Formát: +1 nebo -1 hodina"
+
+#: ../views/admin.php:144 ../views/admin.php:175
+msgid "Save setting"
+msgstr "Uložit nastavení"
+
+#: ../views/admin.php:165
+msgid "Global setting"
+msgstr "Globální nastavení"
+
+#: ../views/admin.php:168
+msgid "Add rel=\"nofollow\" attribute hyperlinks"
+msgstr "Přidat atribut rel=\"nofollow\" k hypertextovým odkazům"
+
+#: ../views/admin.php:169
+msgid "Custom table styles (add css style in textarea)"
+msgstr "Vlastní CSS styl tabulky"
+
+#: ../views/admin.php:192
+msgid "Shortcodes and styling"
+msgstr "Shorcody a styly"
+
+#: ../views/admin.php:194
+msgid "Post and page usage"
+msgstr "Použití pro stránky a články "
+
+#: ../views/admin.php:195 ../views/admin.php:198
+msgid "and"
+msgstr "a"
+
+#: ../views/admin.php:195
+msgid "on posts or pages"
+msgstr "do stránek a článků"
+
+#: ../views/admin.php:196
+msgid "Use limit attribute"
+msgstr "Nastavte počet řádků v tabulce"
+
+#: ../views/admin.php:197
+msgid "Theme usage"
+msgstr "PHP kód"
+
+#: ../views/admin.php:199
+msgid "Use classes for custom styling tables"
+msgstr "Použijte tyro třídy pro nastylování tabulky"
+
+#: ../views/admin.php:200
+msgid "Table"
+msgstr ""
+
+#: ../views/admin.php:201
+msgid "Table head"
+msgstr ""
+
+#: ../views/admin.php:208
+msgid "Table line"
+msgstr ""
+
+#: ../views/admin.php:215
+msgid "Notice"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:24 ../shortcodes/shortcodes.php:129
+msgid "You must save plugin setting first!"
+msgstr "Nejdříve musíte uložit nastavení pluginu"
+
+#: ../shortcodes/shortcodes.php:59 ../shortcodes/shortcodes.php:162
+msgid "Time"
+msgstr "Čas"
+
+#: ../shortcodes/shortcodes.php:60 ../shortcodes/shortcodes.php:163
+msgid "Game"
+msgstr "Název turnaje"
+
+#: ../shortcodes/shortcodes.php:61 ../shortcodes/shortcodes.php:164
+msgid "Site"
+msgstr "Herna"
+
+#: ../shortcodes/shortcodes.php:62 ../shortcodes/shortcodes.php:165
+msgid "Game type"
+msgstr "Typ hry"
